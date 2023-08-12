@@ -7,7 +7,7 @@ read the steps carefully
 Create a solidity file with two or three functions and integrate with front-end 
 
 # What this contract does ?
-the smart contract has a two functions (takes the input from user how much to deposit/withdraw) DEPOSIT and WITHDRAW 
+the smart contract has a two functions DEPOSIT and WITHDRAW (takes the input from user how much to deposit/withdraw) 
 
 # Steps:
 1. Inside the project directory, in the terminal type: npm i
